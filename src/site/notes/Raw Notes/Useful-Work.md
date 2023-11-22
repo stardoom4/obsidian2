@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/raw-notes/useful-work/","noteIcon":"","created":"2023-11-22T12:56:46.957+05:30","updated":"2023-11-22T12:57:59.137+05:30"}
+{"dg-publish":true,"permalink":"/raw-notes/useful-work/","noteIcon":"","created":"2023-11-22T21:38:40.553+05:30","updated":"2023-11-22T21:38:40.553+05:30"}
 ---
 
 In thermodynamics, useful work refers to the portion of work done by a system that can be used to accomplish a desired task. It is typically contrasted with [[Raw Notes/T Delta S\| non useful work]], which is energy that is dissipated as heat or other forms of energy that cannot be directly used to perform work.
