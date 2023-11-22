@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astronomy/nebulae/","noteIcon":"","created":"2023-11-15T21:05:30.294+05:30","updated":"2023-11-15T21:07:29.640+05:30"}
+{"dg-publish":true,"permalink":"/astronomy/nebulae/","noteIcon":"","created":"2023-11-22T21:38:40.533+05:30","updated":"2023-11-22T21:38:40.533+05:30"}
 ---
 
 A nebula is a vast cloud of interstellar gas and dust within a galaxy, typically illuminated by starlight or other radiation sources. Nebulae come in a variety of shapes and sizes, from small, dense regions of gas and dust to massive, diffuse clouds that stretch across thousands of light-years. Some nebulae are the birthplace of new [[astronomy/Sun\|Sun]], while others are the remnants of stars that have died. Nebulae can be observed in different wavelengths, including visible light, ultraviolet, and infrared, which allows astronomers to study their properties and evolution.
