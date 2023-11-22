@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astronomy/active-nucleus-galaxy/","noteIcon":"","created":"2023-11-07T13:32:17.330+05:30","updated":"2023-11-07T13:40:40.040+05:30"}
+{"dg-publish":true,"permalink":"/astronomy/active-nucleus-galaxy/","noteIcon":"","created":"2023-11-22T21:38:40.513+05:30","updated":"2023-11-22T21:38:40.523+05:30"}
 ---
 
 An active galactic nucleus (AGN) is a region at the center of a galaxy that emits a significant amount of radiation and displays strong variability in its emission properties. This phenomenon is thought to be caused by the accretion of material onto a supermassive black hole located at the center of the galaxy.
