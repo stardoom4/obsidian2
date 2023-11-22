@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/raw-notes/t-delta-s/","noteIcon":"","created":"2023-11-22T12:56:10.807+05:30","updated":"2023-11-22T12:56:42.427+05:30"}
+{"dg-publish":true,"permalink":"/raw-notes/t-delta-s/","noteIcon":"","created":"2023-11-22T21:38:40.553+05:30","updated":"2023-11-22T21:38:40.553+05:30"}
 ---
 
 In thermodynamics, T∆S represents the change in entropy (∆S) multiplied by the absolute temperature (T) of a system. It is a term that appears in the Gibbs free energy equation:
