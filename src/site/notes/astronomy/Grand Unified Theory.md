@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astronomy/grand-unified-theory/","noteIcon":"","created":"2023-11-07T13:40:45.727+05:30","updated":"2023-11-07T13:42:53.467+05:30"}
+{"dg-publish":true,"permalink":"/astronomy/grand-unified-theory/","noteIcon":"","created":"2023-11-22T21:38:40.533+05:30","updated":"2023-11-22T21:38:40.543+05:30"}
 ---
 
 
