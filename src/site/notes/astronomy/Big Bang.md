@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astronomy/big-bang/","noteIcon":"","created":"2023-11-15T21:17:09.037+05:30","updated":"2023-11-15T21:23:40.524+05:30"}
+{"dg-publish":true,"permalink":"/astronomy/big-bang/","noteIcon":"","created":"2023-11-22T21:38:40.523+05:30","updated":"2023-11-22T21:38:40.523+05:30"}
 ---
 
 The Big Bang theory is the prevailing scientific explanation for the origin and evolution of the [[universe\|universe]]. According to this theory, the universe began as a [[astronomy/Singularity\|Singularity]], a point of infinite density and temperature, approximately 13.8 billion years ago.
