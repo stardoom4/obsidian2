@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astronomy/milky-way/","noteIcon":"","created":"2023-11-15T21:11:36.030+05:30","updated":"2023-11-15T21:15:35.264+05:30"}
+{"dg-publish":true,"permalink":"/astronomy/milky-way/","noteIcon":"","created":"2023-11-22T21:38:40.523+05:30","updated":"2023-11-22T21:38:40.523+05:30"}
 ---
 
 ![Milky Way](https://www.eso.org/public/archives/images/thumb700x/potw1439a.jpg)
