@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/astronomy/singularity/","noteIcon":"","created":"2023-11-07T13:53:50.764+05:30","updated":"2023-11-07T13:58:17.817+05:30"}
+{"dg-publish":true,"permalink":"/astronomy/singularity/","noteIcon":"","created":"2023-11-22T21:38:40.523+05:30","updated":"2023-11-22T21:38:40.523+05:30"}
 ---
 
 A hypothetical point in the center of [Black-Hole][1] consisting of Infinite Density, Mass, And Gravity. In that point, Gravity is so powerful that even light can't escape. This point will curve the Spacetime so much that it may even create a Wormhole or a <a href="https://en.wikipedia.org/wiki/Wormhole">Rosen-Einstein Bridge</a>.
